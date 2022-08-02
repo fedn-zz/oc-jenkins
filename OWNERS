@@ -1,0 +1,25 @@
+component: "Jenkins"
+
+reviewers:
+- akram
+- waveywaves
+- otaviof
+- sbose78
+- akashshinde
+- jkhelil
+- jitendar-singh
+- coreydaley
+
+approvers:
+- bparees
+- gabemontero
+- adambkaplan
+- akram
+- waveywaves
+- otaviof
+- sbose78
+- akashshinde
+- jkhelil
+- jitendar-singh
+- coreydaley
+
